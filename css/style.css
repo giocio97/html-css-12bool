@@ -1,0 +1,6 @@
+[class*="col-"] {
+    /* debug */
+    background-color:rgb(0, 140, 255) ;
+    min-height: 50px;
+    padding: 2px;
+}
